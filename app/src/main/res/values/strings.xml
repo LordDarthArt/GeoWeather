@@ -2,7 +2,28 @@
     <string name="app_name">GeoWeather</string>
     <string name="geocordinatesnav">GeoCoordinates</string>
     <string name="historynav">History</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview_latitude">Latitude</string>
+    <string name="textview_longitude">Longitude</string>
+    <string name="button_enter">Enter</string>
+    <string name="week_monday">Monday</string>
+    <string name="week_tuesday">Tuesday</string>
+    <string name="week_wednesday">Wednesday</string>
+    <string name="week_thursday">Thursday</string>
+    <string name="week_friday">Friday</string>
+    <string name="week_saturday">Saturday</string>
+    <string name="week_sunday">Sunday</string>
+    <string name="ioerror">I/O Error</string>
+    <string name="lang">en_EN</string>
+    <string name="more_today">Today: </string>
+    <string name="more_humidity">Humidity: </string>
+    <string name="more_pressure">Pressure: </string>
+    <string name="server_error">Server error</string>
+    <string name="no_forecast">No forecast for today</string>
+    <string name="dialog_loading">Loading…</string>
+    <string name="pressure_value">mb</string>
+    <string name="coming_soon">Coming soon</string>
+    <string name="error_emptylatitude">Latitude can\'t be empty</string>
+    <string name="error_emptylongitude">Longitude can\'t be empty</string>
+    <string name="error_numericformat">Please enter a correct numeric format</string>
+    <string name="error_city_not_found">City not found</string>
 </resources>
